@@ -1,4 +1,4 @@
-# clean_soil_app
+# clean_soil_flutter
 
 A new Flutter project.
 

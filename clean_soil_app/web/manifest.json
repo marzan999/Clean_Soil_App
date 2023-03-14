@@ -1,6 +1,6 @@
 {
-    "name": "clean_soil_app",
-    "short_name": "clean_soil_app",
+    "name": "clean_soil_flutter",
+    "short_name": "clean_soil_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
